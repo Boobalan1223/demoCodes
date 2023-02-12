@@ -39,6 +39,11 @@ public class XpathAxes {
 	//  //input[@id='twotabsearchtextbox']/ancestor::*[6]/following-sibling::*[4]/child::div[2]/child::div/div/a[5]
 	
 	
+//	8. Identify the hello, sigin from the amazon search text box present in the amazon home page
+	
+	//    //input[@id='twotabsearchtextbox']/ancestor::div[4]/following-sibling::div/child::div/a[2]/div/span
+	
+	// 9. Identify mobiles link which is part of menu bar-in amazon
 	
 	////div[@id='nav-xshop-container']/child::div/a[3]
 }
